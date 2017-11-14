@@ -1,3 +1,4 @@
+
 Module 8 
 Decided the concept and created the slack channel. 
 
@@ -15,3 +16,5 @@ New Changes #Week 9
 #Week 10
 • Worked on illustration for organ (heart)
 • Fixed Terminal issue with Hamilton
+
+• Terminal issue fixed
