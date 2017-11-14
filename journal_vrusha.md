@@ -11,3 +11,7 @@ New Changes #Week 9
 
 • Worked on researching on vitamins
 • Searched for styleframes and worked on illustrations
+
+#Week 10
+• Worked on illustration for organ (heart)
+• Fixed Terminal issue with Hamilton
