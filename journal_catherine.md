@@ -11,3 +11,8 @@ November 8-13
 - [ ] Styleguide ver.1 - Typeface, Color Scheme, etc. 
 - [ ] Design Mockups
 - [ ] Test Page Transitions
+
+
+November 16
+
+- [ ] Created Icons styles for Vitamins
