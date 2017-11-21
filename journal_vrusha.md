@@ -1,3 +1,6 @@
+Changes for Week #11
+• Worked on illustrations on different organs
+• Upoloaded svgs in github  
 
 Module 8 
 Decided the concept and created the slack channel. 
