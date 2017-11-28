@@ -1,5 +1,5 @@
 Week #12
-•Uploaded SVG assets
+•Uploaded SVG asset
 
 Changes for Week #11
 • Worked on illustrations on different organs
