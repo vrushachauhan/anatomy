@@ -1,3 +1,9 @@
+Week#15
+Completed svg animations and uploaded on Git
+
+Week#14
+Completed organs illustrations
+
 Week #12
 •Uploaded SVG asset
 
