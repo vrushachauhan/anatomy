@@ -12,8 +12,7 @@ Changes for Week #11
 • Uploaded svgs in github  
 
 Module 8 
-Decided the concept and created the slack channel. 
-
+Decided the concept and created the slack channel.
 
 #New changes
 worked on concept and info
@@ -29,4 +28,5 @@ New Changes #Week 9
 • Worked on illustration for organ (heart)
 • Fixed Terminal issue with Hamilton
 
-• Terminal issue fixed
+Week 14
+Worked on svgs animations for heart and lungs organs
